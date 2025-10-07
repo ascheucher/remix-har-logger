@@ -3,3 +3,4 @@ dist
 logs
 .har
 *.log
+har-entries.jsonl
