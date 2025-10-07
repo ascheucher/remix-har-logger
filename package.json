@@ -1,6 +1,6 @@
 {
   "name": "remix-har-logger",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Log server-side Request/Response objects as HAR entries (JSONL/.har) for debugging and comparison with client HAR exports.",
   "main": "./dist/index.js",
   "types": "./dist/index.d.ts",
